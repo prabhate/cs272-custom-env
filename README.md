@@ -54,5 +54,4 @@ The Wildfire and Drone are initially placed in random cells within the 10x10 gri
 An episode ends when all fires are extinguished, and the forest is declared safe.
 
 ## Results
-- Explain main results
-- Show visualizations of the learning process, including fire spread, Drone movements, and the convergence of the algorithm towards a fire-free state.
+![alt text](https://github.com/prabhate/cs272-custom-env/blob/main/intro-custom-env-and-ray/metrics.png)
